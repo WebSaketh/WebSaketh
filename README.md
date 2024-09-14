@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning AWS<br>🎯 Goals: I'm looking to land my first full time role<br>🌍  I'm based in New York<br>🖥️  Portfolio coming soon<br>✉️  You can contact me at skotagiri99@gmail.com<br>🤝  I'm open to collaborating!</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning AWS<br>🎯 Goals: I'm looking to land my first full time role<br>🌍  I'm based in New York<br>🖥️  Visit my <a href="https://www.sakethkotagiri.com"> Portfolio</a>a<br>✉️  You can contact me at <a href ="mailto:skotagiri99@gmail.com">skotagiri99@gmail.com<a/><br>🤝  I'm open to collaborating!</p>
 
 ###
 
